@@ -1,3 +1,3 @@
-#Non Recursive Makefile Boilerplate
+Non Recursive Makefile Boilerplate
 
 Currently works with C source code
