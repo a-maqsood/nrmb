@@ -1,0 +1,1 @@
+Non Recursive Makefile Boilerplate
